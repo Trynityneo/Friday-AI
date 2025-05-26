@@ -1,12 +1,11 @@
 # Friday AI - Your Intelligent Chat Assistant
 
 <div align="center">
-  <br>
   <h3>Smart, Efficient, and Always Ready to Help</h3>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername/friday-ai?style=social)](https://github.com/yourusername/friday-ai/stargazers)
+  [![GitHub stars](https://img.shields.io/github/stars/Trynityneo/Friday-AI?style=social)](https://github.com/Trynityneo/Friday-AI/stargazers)
 </div>
 
 ## 🚀 Features
@@ -22,7 +21,7 @@
 
 ## 🌟 Live Demo
 
-Check out the live demo [here](https://your-app-url.vercel.app) (if deployed)
+Check out the live demo [here](https://bubu-ai.vercel.app/) (It's a example)
 
 ## 🛠️ Tech Stack
 
@@ -44,8 +43,8 @@ Check out the live demo [here](https://your-app-url.vercel.app) (if deployed)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/friday-ai.git
-   cd friday-ai
+   git clone https://github.com/Trynityneo/Friday-AI.git
+   cd Friday-AI
    ```
 
 2. **Install dependencies**
