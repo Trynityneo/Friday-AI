@@ -1,7 +1,7 @@
 {
-  "name": "BUBU AI - Your Smart Chat Assistant",
-  "short_name": "BUBU AI",
-  "description": "Chat with BUBU AI, your friendly AI assistant that can help with creative tasks, answer questions, and assist with various challenges.",
+  "name": "Friday AI - Your Smart Chat Assistant",
+  "short_name": "Friday AI",
+  "description": "Chat with Friday AI, your friendly AI assistant that can help with creative tasks, answer questions, and assist with various challenges.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",

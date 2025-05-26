@@ -43,8 +43,8 @@ const ChatContainer: React.FC = () => {
           <div className="flex flex-col items-center justify-center h-full text-center px-4 mt-10">
             <div className="mb-6">
               <img 
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyUU8S400O4bi_OGmW48nV-_djy7i-hjB92A&s" 
-                alt="BUBU AI" 
+                src="/image/friday.jpg" 
+                alt="Friday AI" 
                 className="w-24 h-24 rounded-full object-cover border-2 border-blue-500" 
               />
             </div>
@@ -55,7 +55,7 @@ const ChatContainer: React.FC = () => {
               What can I help you with today?
             </h2>
             <p className="text-gray-400 mb-8 max-w-md">
-              I'm BUBU AI, your friendly AI assistant. I can help with creative tasks, answer questions, and assist with various challenges. What would you like to explore today?
+              I'm Friday AI, your friendly AI assistant. I can help with creative tasks, answer questions, and assist with various challenges. What would you like to explore today?
             </p>
             
             <div className="grid grid-cols-2 gap-2 max-w-md mb-4">

@@ -1,24 +1,25 @@
-# BUBU AI - Your Smart Chat Assistant
+# Friday AI - Your Smart Chat Assistant
 
 <div align="center">
-  <img src="public/bubu-icon.png" alt="BUBU AI Logo" width="120" height="120" style="border-radius: 50%;">
+  <img src="public/image/friday.jpg" alt="Friday AI Logo" width="120" height="120" style="border-radius: 50%;">
   <br>
   <h3>Intelligent, Friendly, and Helpful AI Assistant</h3>
 </div>
 
 ## 🌟 Overview
 
-BUBU AI is a modern, intelligent chat assistant built with React and TypeScript. It leverages the power of Google's Gemini AI to provide helpful responses to user queries, assist with creative tasks, and offer solutions to various challenges.
+Friday AI is a modern, intelligent chat assistant built with React and TypeScript. It leverages the power of Google's Gemini AI to provide helpful responses to user queries, assist with creative tasks, and offer solutions to various challenges.
 
+## 🎨 Design
+Friday AI boasts a modern, sleek design that's easy on the eyes. The interface is clean and intuitive, with a focus on user experience. The dark theme ensures that the app stays focused and distraction-free, even during long conversations.
 <div align="center">
-  <img src="screenshots/bubu-ai-demo.png" alt="BUBU AI Demo" width="700">
-</div>
+  <img src="public/image/friday.jpg" alt="Friday AI Design Screenshot" width="800">
 
 ## ✨ Features
 
 - **Modern UI**: Clean, dark-themed interface with a focus on user experience
 - **AI-Powered Conversations**: Utilizes Google's Gemini AI for intelligent responses
-- **Voice Input**: Speak directly to BUBU AI using your microphone
+- **Voice Input**: Speak directly to Friday AI using your microphone
 - **Code Highlighting**: Beautiful syntax highlighting for code snippets
 - **Markdown Support**: Rich text formatting with support for bold, italic, and code blocks
 - **Suggestion Buttons**: Quick-start your conversations with suggested prompts
@@ -37,8 +38,8 @@ BUBU AI is a modern, intelligent chat assistant built with React and TypeScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bubu-ai.git
-   cd bubu-ai
+   git clone https://github.com/yourusername/friday-ai.git
+   cd friday-ai
    ```
 
 2. Install dependencies:
@@ -74,7 +75,7 @@ BUBU AI is a modern, intelligent chat assistant built with React and TypeScript.
 ## 📂 Project Structure
 
 ```
-bubu-ai/
+friday-ai/
 ├── public/                # Static assets
 ├── src/
 │   ├── components/        # UI components
@@ -138,7 +139,7 @@ You can obtain a Gemini API key from the [Google AI Studio](https://ai.google.de
 
 ## 📱 Progressive Web App
 
-BUBU AI is configured as a Progressive Web App (PWA), allowing users to install it on their devices for a native app-like experience.
+Friday AI is configured as a Progressive Web App (PWA), allowing users to install it on their devices for a native app-like experience.
 
 ## 🤝 Contributing
 
@@ -164,5 +165,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  Made with ❤️ by Your Name
+  Made with ❤️ by VishnuXrobot
 </div>

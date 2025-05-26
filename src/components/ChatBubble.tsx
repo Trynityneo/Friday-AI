@@ -28,8 +28,8 @@ const ChatBubble: React.FC<ChatBubbleProps> = ({ message }) => {
         >
           {isUser ? <User size={16} /> : 
             <img 
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyUU8S400O4bi_OGmW48nV-_djy7i-hjB92A&s" 
-              alt="BUBU AI" 
+              src="/image/friday.jpg" 
+              alt="Friday AI" 
               className="h-4 w-4 rounded-full object-cover" 
             />}
         </div>

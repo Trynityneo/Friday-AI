@@ -40,11 +40,11 @@ const Header: React.FC<HeaderProps> = ({ toggleSidebar, isSidebarOpen }) => {
             </button>
             <div className="flex items-center space-x-2">
               <img 
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyUU8S400O4bi_OGmW48nV-_djy7i-hjB92A&s" 
-                alt="BUBU AI" 
+                src="/image/friday.jpg" 
+                alt="Friday AI" 
                 className="h-8 w-8 rounded-full object-cover" 
               />
-              <span className="text-xl font-bold text-gray-900 dark:text-white">BUBU AI</span>
+              <span className="text-xl font-bold text-gray-900 dark:text-white">Friday AI</span>
             </div>
           </div>
           

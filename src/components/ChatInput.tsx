@@ -89,7 +89,7 @@ const ChatInput: React.FC<ChatInputProps> = ({ onSendMessage }) => {
             value={message}
             onChange={(e) => setMessage(e.target.value)}
             onKeyDown={handleKeyDown}
-            placeholder="Message BUBU AI..."
+            placeholder="Message Friday AI..."
             className="flex-1 bg-transparent border-0 focus:ring-0 resize-none max-h-[100px] py-1 px-2 text-gray-200 placeholder-gray-400 text-sm"
             rows={1}
           />
