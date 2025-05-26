@@ -1,7 +1,6 @@
 # Friday AI - Your Intelligent Chat Assistant
 
 <div align="center">
-  <img src="/image/friday.jpg" alt="Friday AI Logo" width="120" height="120" style="border-radius: 50%;">
   <br>
   <h3>Smart, Efficient, and Always Ready to Help</h3>
   
